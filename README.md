@@ -12,10 +12,11 @@ Earlier: internships at DreamWorks Animation (R&D data analytics) and OpsRamp.
 
 **Tech:** Java 17 · Spring Boot · JAX-RS · React · Redux · Playwright · Docker · AWS · Terraform · SQL Server · Kubernetes
 
-## Side projects
+## Projects
 
 | Project | What it is |
 |---|---|
+| [California Drought Impact (interactiveViz)](https://tiwari91.github.io/interactiveViz/) | An interactive data visualization of California's reservoirs and rivers: a 2D map and a 3D terrain view in D3 and three.js, with monthly storage from 2011 to today. First built as a research assistant at Cal State Fullerton and published at IEEE VISAP 2016; rebuilt in 2026. ([code](https://github.com/tiwari91/interactiveViz)) |
 | [Floodlit Football](https://tiwari91.github.io/floodlit-football/) | A browser football game in three.js: league, transfers, fouls, cards, subs, a season simulator and a broadcast-style 3D camera. ([code](https://github.com/tiwari91/floodlit-football)) |
 | [India car buyer guide](https://tiwari91.github.io/india-car-buyer-guide/) | Compare ₹7–14L cars by price, mileage, safety, boot and 10-year cost to own, with a guided picker. ([code](https://github.com/tiwari91/india-car-buyer-guide)) |
 | [Palang bed designer](https://tiwari91.github.io/bed-designer/) | A 3D bed configurator with cutting list, sheet nesting, cost estimate and a spec sheet for the carpenter. ([code](https://github.com/tiwari91/bed-designer)) |
